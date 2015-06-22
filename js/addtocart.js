@@ -1,0 +1,2 @@
+﻿$(function(){		$( "#car" ).click(function() {				addcook(123);		});			});function addcook () {	var test = arguments[0];	alert(test);	var insurl = location.href;	//	var bindex = insurl.substr(insurl.indexOf("?bid=")+5);	//if ()	//document.cookie = bindex;			
+}

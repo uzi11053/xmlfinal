@@ -1,0 +1,116 @@
+#body {
+	margin: 0;
+	text-align: center;	font-family:Georgia, 新細明體;
+	//background-color:#F8F8F8;	font-size: 16px;
+	background-color:#FFFFFF;	//font-weight: bold;
+}.boldfont {	font-weight: bold;	font-size: 20px;	//color:red;	background-color:#CCCCFF;	margin-left:8.3%;	margin-bottom:1%;	border:1px solid #C8C8C8;}.gpout {	font-weight: bold;	font-size: 20px;	//color:red;	background-color:#CCCCFF;	margin-left:8.3%;	margin-right:8.3%;	margin-bottom:1%;	border:1px solid #C8C8C8;}.gpin {	padding:10px;	font-weight: normal;	font-size: 16px;	background-color:#F8F8F8;	//color:red;		//margin-left:9.3%;	//margin-top:1%;	//border:1px solid #C8C8C8;}#banner {	float:left;	width:120px;	height:120px;}#bannerimg {	width:100%;	height:150px;}
+#page {    display: none;}#user {	position:relative;	text-align:right;	top:-12px;}#username {	display:inline-block;	text-align:right;	}tr {  display: table-row;  vertical-align: inherit;  border-color: inherit;}tbody {  display: table-row-group;  vertical-align: middle;  border-color: inherit;}.tableimg {	width:100px;	height:100px;}.tableimgg {	width:100%;	height:100%;}tr,th ,td{	padding:8px !important;	//border:1px dotted black;}#tbtitle {	background-color:#E0EDF3;}.dotline {	border-right:1px dotted gray;}.solidline {	border-bottom:1px solid #BBBBBB;}.itemtable {	border-bottom:1px solid #E2E2E6;}.itemtablemyaccount {	border-bottom:1px solid #E2E2E6;	}#total {	margin:5px;}table {	table-layout: fixed;	word-wrap:break-word;}.tdleft {	text-align:left;}.bnamew {	width:600px;}.tdsmall {	width:100px;}#carttable {	width:100%;	//left:20%;	float:right;	//text-align:left;	//border:1px dotted black;	margin-bottom:50px;	}.singlebookclass {	position:relative;	font-size:28px;	//margin-left:20px;	z-index:25;	}.singlebookright {	position:relative;	left:20px;}.singlebooknote {}.singlebookauthor {}.singlebookprovider {}.singlebooktime {}.singlebookcategory {}.singlebookstatus {}.singlebookbuyman {}.singlebookimgdiv {		float:left;	margin:5%;}.singlebookright{	margin-right:12%;	padding:6%;	left:6%;}.singlebookimg {	width:374px;	height:450px;	float:left;}.singlebookname {	text-align:left;}.singlebookprice {	text-align:left;}.singlebookpublisher {	text-align:left;}#bk {	position:absolute;	width:87.55%;	//height:90%;}#bk img {	width:100%;	height:90%;}.boldfontindex{		position:relative;	z-index:15;	font-weight: bold;	font-size: 20px;	//color:red;	margin-left:5.3%;	padding-top:10px;}.boldfontindexb{	top:10%;	position:relative;	z-index:15;	font-weight: bold;	font-size: 20px;	//color:red;	margin-left:5.3%;	padding-top:10px;}#bgtop {	position:absolute;	left:4.3%;	z-index:5;	width:91.4%;	height:251px;}#bgtop img {	width:100%;	height:251px;}.bookssliclass {		margin-left:45px;	margin-top:40px;	padding-left:10px;	position:relative;	z-index:5;	visibility:none;}.bookssimg {	width:100px;	height:130px;}.bookssname{	margin-top:10px;}#bookss li{	width:150px;	height:180px;	list-style-type: none;	display:inline-block;}#submitbtn {	position:relative;	top: 8px;}#search {	float:left;}#home {	padding-right:10px;	padding-left:10px;	border-right:1px solid black;	display: inline;	float: left;}#contactus{	padding-right:10px;	padding-left:10px;	border-right:1px solid black;	display: inline;	float: left;}#service {	padding-right:10px;	padding-left:10px;	border-right:1px solid black;	display: inline;	float: left;}#books {	padding-right:10px;	padding-left:10px;	border-right:1px solid black;	display: inline;	float: left;}#myaccount {	padding-right:10px;	padding-left:10px;	border-right:1px solid black;	display: inline;	float: left;}
+.imgbtn {	background-image:url("../img/buttonproto.png");	//background-color: transparent;	background-size: 100%;	color:#FFFFFF;}.btnstyle1 {	position:absolute;	left:30%;	bottom:-25%;	background-color:#CCCCFF;	//color:#FFFFFF;	padding:10px 20px 10px 20px;	font-size:16px;	//width:11.5%;	text-align: center;	margin: auto;}.btnstyle2 {	position:absolute;	left:50%;	bottom:-25%;	background-color:#FFFFFF;	//color:#FFFFFF;	padding:10px 20px 10px 20px;	font-size:16px;	text-align: center;	margin: auto;}
+#container {
+	padding-left:0px;
+	padding-right:0px;
+	position: relative;
+	margin: 0 auto ;
+	text-align: center;
+	//background-color:#FFFFFF;
+	background-color:#F8F8F8;
+}
+
+#header {	z-index:8;	//float:right;	//width:100%;	//float:right;	height:40px;	right:15px;	position:fixed;	//right:31px;	background-color:#CCCCFF;	margin-left:auto;	margin-right:auto;	//text-align:right;}
+
+
+
+#navigation {
+	float:right;
+}
+
+#main {
+	//background-color:#00FF00;
+	min-height:750px;
+	width:100%;
+	
+}
+
+#mainleft {
+	margin-top:50px;
+	//background-color:#FF0000;
+	height:100%;
+}
+#ifrude {	text-align:center;	font-size:50px;}.bookssnamel {		display:none;}.booksspublisherl {	display:none;}.bookssnames {	color:#3F3F3F;	font-family: "Helvetica Neue", Helvetica, Arial, STHeiti, "Microsoft JhengHei", "微軟正黑體", sans-serif;}.bookssprice {	color:#ED3729;	font-family: "Helvetica Neue", Helvetica, Arial, STHeiti, "Microsoft JhengHei", "微軟正黑體", sans-serif;}.booksssellers {	color:#ABAEB7;	font-family: "Helvetica Neue", Helvetica, Arial, STHeiti, "Microsoft JhengHei", "微軟正黑體", sans-serif;}
+#mainright {
+	//background-color:#00FF00;
+	height:100%;
+	//width:100%;
+	//float:none;
+	//margin: auto;
+	//text-align:center;
+	//float:left;
+}#form {	//text-align:left;}#fileToUpload {	display:inline;}
+#navv {	text-align:left;}#navv li{	list-style-type: none;	display:inline-block;}#bookss {	margin-left:6%;	text-align:left;	padding:0px;}
+#bread {
+	margin-top:10px;
+	//clear:both;
+
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+#footer {
+	height:50px;
+	width:100%;
+	background-color:#99CCFF;
+}
+
+#ftleft {
+	//color:#FFFFFF;
+	text-align:left;
+	padding-top:18px;
+	padding-left:50px;
+}
+
+#ftright {
+	//color:#FFFFFF;
+	text-align:right;
+	padding-top:18px;
+	padding-right:50px;
+}
+
+#breadtext {
+	float:left;
+	
+}
+
+.maincontent {
+	padding:20px;
+
+}
+
+.breadclass {
+	list-style-type: none;
+
+}
+
+#backtotop {
+	display: none;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;    
+    padding: 10px 15px;    
+    font-size: 20px;
+    background: #777;
+    color: white;
+    cursor: pointer;
+}
+#breadtext {
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+
+
+
+
